@@ -84,9 +84,6 @@ The app has been implemented with the following functionalities:
 
 Detailed API documentation and response formats are integrated into the app as per the specifications.
 
-## Quick Tips
-
-- Utilize array methods like `join()` for string manipulations
 
 ## Important Note
 
