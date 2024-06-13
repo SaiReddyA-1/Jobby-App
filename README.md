@@ -16,61 +16,34 @@ If the videos do not play, try downloading them and viewing them locally on your
 
 ### Login Route
 
-#### Extra Small (Size < 576px) and Small (Size >= 576px)
-![Login Extra Small](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-sm-outputs.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)
-![Login Medium to Extra Large](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-lg-output.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Login Failure
-![Login Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-failure-lg-output.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px) - Login](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-sm-outputs.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Login](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-lg-output.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Login Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-failure-lg-output.png)
 
 ### Home Route
 
-#### Extra Small (Size < 576px) and Small (Size >= 576px)
-![Home Extra Small](https://assets.ccbp.in/frontend/content/react-js/jobby-app-home-sm-output.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)
-![Home Medium to Extra Large](https://assets.ccbp.in/frontend/content/react-js/jobby-app-home-lg-output.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px) - Home](https://assets.ccbp.in/frontend/content/react-js/jobby-app-home-sm-output.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Home](https://assets.ccbp.in/frontend/content/react-js/jobby-app-home-lg-output.png)
 
 ### Jobs Route
 
-#### Extra Small (Size < 576px) and Small (Size >= 576px)
-![Jobs Extra Small](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-sm-outputs.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Jobs Success
-![Jobs Success](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-success-lg-output-v0.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - No Jobs
-![No Jobs](https://assets.ccbp.in/frontend/content/react-js/jobby-app-no-jobs-lg-output-v0.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Profile Failure
-![Profile Failure](https://assets.ccbp.in/frontend/content/react-js/jooby-app-profile-failure-lg-output-v0.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Jobs Failure
-![Jobs Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-failure-lg-output-v0.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px) - Jobs](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-sm-outputs.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Jobs Success](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-success-lg-output-v0.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - No Jobs](https://assets.ccbp.in/frontend/content/react-js/jobby-app-no-jobs-lg-output-v0.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Profile Failure](https://assets.ccbp.in/frontend/content/react-js/jooby-app-profile-failure-lg-output-v0.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Jobs Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-failure-lg-output-v0.png)
 
 ### Job Item Details Route
 
-#### Extra Small (Size < 576px) and Small (Size >= 576px) - Job Details Success
-![Job Details Success Extra Small](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-success-sm-output-v0.png)
-
-#### Extra Small (Size < 576px) and Small (Size >= 576px) - Job Details Failure
-![Job Details Failure Extra Small](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-failure-sm-output.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Job Details Success
-![Job Details Success Medium to Extra Large](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-success-lg-output-v0.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Job Details Failure
-![Job Details Failure Medium to Extra Large](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-failure-lg-output.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px) - Job Details Success](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-success-sm-output-v0.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px) - Job Details Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-failure-sm-output.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Job Details Success](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-success-lg-output-v0.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Job Details Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-failure-lg-output.png)
 
 ### Not Found Route
 
-#### Extra Small (Size < 576px) and Small (Size >= 576px) - Not Found
-![Not Found Extra Small](https://assets.ccbp.in/frontend/content/react-js/jobby-app-not-found-sm-output-v0.png)
-
-#### Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Not Found
-![Not Found Medium to Extra Large](https://assets.ccbp.in/frontend/content/react-js/jobby-app-not-found-lg-output-v0.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px) - Not Found](https://assets.ccbp.in/frontend/content/react-js/jobby-app-not-found-sm-output-v0.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Not Found](https://assets.ccbp.in/frontend/content/react-js/jobby-app-not-found-lg-output-v0.png)
 
 ## Set Up Instructions
 
